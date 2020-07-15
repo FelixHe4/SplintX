@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/splintx/static/css/main.d779f3b9.chunk.css",
+    "main.js": "/splintx/static/js/main.5ffc279a.chunk.js",
+    "main.js.map": "/splintx/static/js/main.5ffc279a.chunk.js.map",
+    "runtime-main.js": "/splintx/static/js/runtime-main.cc7b5e54.js",
+    "runtime-main.js.map": "/splintx/static/js/runtime-main.cc7b5e54.js.map",
+    "static/js/2.a1baf637.chunk.js": "/splintx/static/js/2.a1baf637.chunk.js",
+    "static/js/2.a1baf637.chunk.js.map": "/splintx/static/js/2.a1baf637.chunk.js.map",
+    "index.html": "/splintx/index.html",
+    "precache-manifest.6b89a362c3acd399309caf1e71ba212d.js": "/splintx/precache-manifest.6b89a362c3acd399309caf1e71ba212d.js",
+    "service-worker.js": "/splintx/service-worker.js",
+    "static/css/main.d779f3b9.chunk.css.map": "/splintx/static/css/main.d779f3b9.chunk.css.map",
+    "static/js/2.a1baf637.chunk.js.LICENSE.txt": "/splintx/static/js/2.a1baf637.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/splintx/static/media/logo.5d5d9eef.svg",
+    "static/media/CollectionFilter.css": "/splintx/static/media/search.dd770b43.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc7b5e54.js",
+    "static/js/2.a1baf637.chunk.js",
+    "static/css/main.d779f3b9.chunk.css",
+    "static/js/main.5ffc279a.chunk.js"
+  ]
+}
